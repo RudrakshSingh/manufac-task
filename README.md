@@ -52,3 +52,6 @@ export default tseslint.config({
   },
 })
 ```
+## 🔗 Live Demo
+
+[Click here to view the live app](https://rudrakshmanufac.netlify.app/)
