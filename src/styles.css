@@ -1,0 +1,31 @@
+/* styles.css */
+.my-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.my-table th,
+.my-table td {
+  border: 1px solid #ddd;
+  padding: 8px 200px;
+  text-align: left;
+}
+
+.my-table th {
+  background-color: #007bff; /* Mantine's blue or any color you prefer */
+  color: white;
+}
+
+.my-table tr:nth-child(even) {
+  background-color: grey;
+}
+
+.my-table tr:hover {
+  background-color: #e9ecefab;
+  cursor: pointer;
+}
+.my-table .actions {
+  display: flex;
+  gap: 10px;
+}

@@ -1,0 +1,56 @@
+[
+  { "Year": "2010", "Crop": "Wheat", "Production": "240" },
+  { "Year": "2010", "Crop": "Rice", "Production": "180" },
+  { "Year": "2010", "Crop": "Maize", "Production": "150" },
+  { "Year": "2010", "Crop": "Barley", "Production": "90" },
+
+  { "Year": "2011", "Crop": "Wheat", "Production": "250" },
+  { "Year": "2011", "Crop": "Rice", "Production": "190" },
+  { "Year": "2011", "Crop": "Maize", "Production": "155" },
+  { "Year": "2011", "Crop": "Barley", "Production": "100" },
+
+  { "Year": "2012", "Crop": "Wheat", "Production": "260" },
+  { "Year": "2012", "Crop": "Rice", "Production": "200" },
+  { "Year": "2012", "Crop": "Maize", "Production": "160" },
+  { "Year": "2012", "Crop": "Barley", "Production": "105" },
+
+  { "Year": "2013", "Crop": "Wheat", "Production": "265" },
+  { "Year": "2013", "Crop": "Rice", "Production": "210" },
+  { "Year": "2013", "Crop": "Maize", "Production": "162" },
+  { "Year": "2013", "Crop": "Barley", "Production": "107" },
+
+  { "Year": "2014", "Crop": "Wheat", "Production": "270" },
+  { "Year": "2014", "Crop": "Rice", "Production": "215" },
+  { "Year": "2014", "Crop": "Maize", "Production": "165" },
+  { "Year": "2014", "Crop": "Barley", "Production": "110" },
+
+  { "Year": "2015", "Crop": "Wheat", "Production": "275" },
+  { "Year": "2015", "Crop": "Rice", "Production": "220" },
+  { "Year": "2015", "Crop": "Maize", "Production": "170" },
+  { "Year": "2015", "Crop": "Barley", "Production": "115" },
+
+  { "Year": "2016", "Crop": "Wheat", "Production": "280" },
+  { "Year": "2016", "Crop": "Rice", "Production": "225" },
+  { "Year": "2016", "Crop": "Maize", "Production": "175" },
+  { "Year": "2016", "Crop": "Barley", "Production": "120" },
+
+  { "Year": "2017", "Crop": "Wheat", "Production": "290" },
+  { "Year": "2017", "Crop": "Rice", "Production": "230" },
+  { "Year": "2017", "Crop": "Maize", "Production": "178" },
+  { "Year": "2017", "Crop": "Barley", "Production": "122" },
+
+  { "Year": "2018", "Crop": "Wheat", "Production": "295" },
+  { "Year": "2018", "Crop": "Rice", "Production": "240" },
+  { "Year": "2018", "Crop": "Maize", "Production": "180" },
+  { "Year": "2018", "Crop": "Barley", "Production": "125" },
+
+  { "Year": "2019", "Crop": "Wheat", "Production": "300" },
+  { "Year": "2019", "Crop": "Rice", "Production": "250" },
+  { "Year": "2019", "Crop": "Maize", "Production": "185" },
+  { "Year": "2019", "Crop": "Barley", "Production": "130" },
+
+  { "Year": "2020", "Crop": "Wheat", "Production": "310" },
+  { "Year": "2020", "Crop": "Rice", "Production": "260" },
+  { "Year": "2020", "Crop": "Maize", "Production": "190" },
+  { "Year": "2020", "Crop": "Barley", "Production": "135" }
+]
